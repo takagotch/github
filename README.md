@@ -10,4 +10,19 @@ https://developer.github.com/
 https://github.com/cli/cli#installation-and-upgrading
 
 
+### Host app Demo
+###### Github Pqge
+###### Netlify 
+###### Zeit Now | Vercel
+###### Heroku
+###### AWS Amplify
+###### sakuraVPS
 
+```
+```
+
+```
+```
+
+```
+```
