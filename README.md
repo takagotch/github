@@ -22,6 +22,11 @@ https://github.com/cli/cli#installation-and-upgrading
 ###### Github Button
 https://buttons.github.io/
 
+###### Github chrome history 
+https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related?hl=ja
+
+
+
 
 
 ```
