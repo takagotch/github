@@ -23,9 +23,9 @@ https://github.com/cli/cli#installation-and-upgrading
 https://buttons.github.io/
 
 ###### Github history 
-https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related?hl=ja
+https://github.com/takagotch/github/blob/master/github_history.JPG
 
-!()[]
+
 
 
 
