@@ -25,7 +25,7 @@ https://buttons.github.io/
 ###### Github history 
 https://github.com/takagotch/github/blob/master/github_history.JPG
 
-###### GithubPage jekyll default plugin
+###### [GithubPage jekyll default plugin](https://docs.github.com/ja/free-pro-team@latest/github/working-with-github-pages/about-github-pages-and-jekyll#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
 ```
 jekyll-coffeescript
 jekyll-default-layout
