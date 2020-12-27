@@ -25,13 +25,20 @@ https://buttons.github.io/
 ###### Github history 
 https://github.com/takagotch/github/blob/master/github_history.JPG
 
-
-
-
-
-
+###### GithubPage jekyll default plugin
 ```
+jekyll-coffeescript
+jekyll-default-layout
+jekyll-gist
+jekyll-github-metadata
+jekyll-optional-front-matter
+jekyll-paginate
+jekyll-readme-index
+jekyll-titles-from-headings
+jekyll-relative-links
 ```
+
+
 
 ```
 ```
