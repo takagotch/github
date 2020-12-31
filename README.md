@@ -3,6 +3,13 @@
 https://github.com/trending/developers/ruby
 
 
+```
+CI で管理する | example, gitlab
+.gitlab-ci.yml https://takagotch.gitlab.io/snippets16
+
+```
+
+
 https://github.com/github
 
 https://developer.github.com/
@@ -44,6 +51,8 @@ jekyll-relative-links
 ```
 
 
+```
+```
 
 ```
 ```
