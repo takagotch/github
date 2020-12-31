@@ -11,6 +11,8 @@ https://developer.github.com/
 https://github.com/cli/cli#installation-and-upgrading
 
 ### Hosting
+### GitLab cli
+https://gitlab.com/-/profile/personal_access_tokens
 ### GithubPage or Firebase
 https://github.com/takagotch/Firebase
 
