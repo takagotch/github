@@ -10,6 +10,9 @@ https://developer.github.com/
 ###### cli on github
 https://github.com/cli/cli#installation-and-upgrading
 
+### Hosting
+### GithubPage or Firebase
+https://github.com/takagotch/Firebase
 
 ### Host app Demo
 ###### Github Pqge
